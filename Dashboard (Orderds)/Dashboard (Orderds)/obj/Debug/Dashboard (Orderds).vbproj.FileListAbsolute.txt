@@ -1,0 +1,13 @@
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\bin\Debug\Dashboard (Orderds).exe.config
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\bin\Debug\Dashboard (Orderds).exe
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\bin\Debug\Dashboard (Orderds).pdb
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\bin\Debug\Dashboard (Orderds).xml
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\obj\Debug\Dashboard (Orderds).vbproj.AssemblyReference.cache
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\obj\Debug\Dashboard (Orderds).vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\obj\Debug\Dashboard__Orderds_.Form1.resources
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\obj\Debug\Dashboard__Orderds_.Resources.resources
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\obj\Debug\Dashboard (Orderds).vbproj.GenerateResource.cache
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\obj\Debug\Dashboard (Orderds).vbproj.CoreCompileInputs.cache
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\obj\Debug\Dashboard (Orderds).exe
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\obj\Debug\Dashboard (Orderds).xml
+C:\Users\Yasol\source\repos\Dashboard (Orderds)\Dashboard (Orderds)\obj\Debug\Dashboard (Orderds).pdb
